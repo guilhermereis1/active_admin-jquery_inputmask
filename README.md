@@ -28,5 +28,8 @@ f.input :created_at, mask: 'datetime'
 f.input :date, mask: { alias: 'datetime', inputformat: 'dd/mm/yyyy' } 
 ```
 
-## Maintainer
-[Guilherme Reis](https://github.com/guilhermereis1)
+Guilherme Reis
+
+* https://www.worldcode.com.br
+
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
